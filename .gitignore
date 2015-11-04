@@ -1,0 +1,10 @@
+# Ignore IDEA project files
+*.iml
+/.idea
+
+# Ignore generated stuff
+*/target
+/target
+*/project/target
+*/project/project/target
+
