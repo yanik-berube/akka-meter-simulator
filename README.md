@@ -6,11 +6,11 @@ To run from your Mac:
 * Prep
   * Install Homebrew - see http://brew.sh/
   * Install Scala
-    ```sh
+    ```
     brew install scala
     ```
   * Install sbt (Scala Build Tool)
-    ```sh
+    ```
     brew install sbt
     ```
   * Clone this repo (!)
